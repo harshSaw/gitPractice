@@ -1,0 +1,1 @@
+This is a description of my Project and it's participants.
